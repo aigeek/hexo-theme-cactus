@@ -29,7 +29,7 @@ nav:
 social_links:
   -
     icon: github
-    link: http://github.com/probberechts/cactus-dark
+    link: https://github.com/aigeek?tab=repositories
   -
     icon: twitter
     link: /
@@ -79,7 +79,7 @@ post:
 # Customize the copyright years
 # Note: if start_year/end_year not provided, will use current year.
 copyright:
-  start_year: 2016
+  start_year: 2024
   end_year:
 
 # Customize the 404 page
@@ -133,12 +133,13 @@ favicon:
 
 # The color scheme that should be used to highlight codeblocks.
 # See source/css/_highlight for a list of all available color schemes.
-# highlight: rainbow
+highlight: github
 
 # Set the color scheme.
 # Available color schemes are 'dark', 'light', 'classic' and 'white'.
 # Alternatively, add your own custom color scheme to source/css/_colors.
-colorscheme: dark
+#colorscheme: dark
+colorscheme: white
 
 # Maximal width of the page in rem units.
 page_width: 48
